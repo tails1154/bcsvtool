@@ -1,6 +1,0 @@
-/home/tails1154/Documents/coding/dotnet/BCSVTool/obj/Debug/net8.0/BCSVTool.csproj.AssemblyReference.cache
-/home/tails1154/Documents/coding/dotnet/BCSVTool/obj/Debug/net8.0/BCSVTool.GeneratedMSBuildEditorConfig.editorconfig
-/home/tails1154/Documents/coding/dotnet/BCSVTool/obj/Debug/net8.0/BCSVTool.AssemblyInfoInputs.cache
-/home/tails1154/Documents/coding/dotnet/BCSVTool/obj/Debug/net8.0/BCSVTool.AssemblyInfo.cs
-/home/tails1154/Documents/coding/dotnet/BCSVTool/obj/Debug/net8.0/BCSVTool.csproj.CoreCompileInputs.cache
-/home/tails1154/Documents/coding/dotnet/BCSVTool/obj/Debug/net8.0/BCSVTool.sourcelink.json

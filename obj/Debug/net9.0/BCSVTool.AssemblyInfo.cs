@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BCSVTool")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c3210d1220f6f8957a72e297fb810c41871f1a60")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
 [assembly: System.Reflection.AssemblyProductAttribute("BCSVTool")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BCSVTool")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

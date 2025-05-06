@@ -4,96 +4,14 @@
     "/home/tails1154/Documents/coding/dotnet/BCSVTool/BCSVTool.csproj": {}
   },
   "projects": {
-    "/home/tails1154/Documents/coding/dotnet/BCSVTool/BCSVTool.csproj": {
-      "version": "1.0.0",
-      "restore": {
-        "projectUniqueName": "/home/tails1154/Documents/coding/dotnet/BCSVTool/BCSVTool.csproj",
-        "projectName": "BCSVTool",
-        "projectPath": "/home/tails1154/Documents/coding/dotnet/BCSVTool/BCSVTool.csproj",
-        "packagesPath": "/home/tails1154/.nuget/packages/",
-        "outputPath": "/home/tails1154/Documents/coding/dotnet/BCSVTool/obj/",
-        "projectStyle": "PackageReference",
-        "configFilePaths": [
-          "/home/tails1154/.nuget/NuGet/NuGet.Config"
-        ],
-        "originalTargetFrameworks": [
-          "net8.0"
-        ],
-        "sources": {
-          "https://api.nuget.org/v3/index.json": {}
-        },
-        "frameworks": {
-          "net8.0": {
-            "targetAlias": "net8.0",
-            "projectReferences": {
-              "/home/tails1154/Documents/coding/dotnet/BCSVTool/Hack.io/Hack.io.BCSV/Hack.io.BCSV.csproj": {
-                "projectPath": "/home/tails1154/Documents/coding/dotnet/BCSVTool/Hack.io/Hack.io.BCSV/Hack.io.BCSV.csproj"
-              },
-              "/home/tails1154/Documents/coding/dotnet/BCSVTool/Hack.io/Hack.io/Hack.io.csproj": {
-                "projectPath": "/home/tails1154/Documents/coding/dotnet/BCSVTool/Hack.io/Hack.io/Hack.io.csproj"
-              }
-            }
-          }
-        },
-        "warningProperties": {
-          "warnAsError": [
-            "NU1605"
-          ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
-        },
-        "SdkAnalysisLevel": "9.0.100"
-      },
-      "frameworks": {
-        "net8.0": {
-          "targetAlias": "net8.0",
-          "dependencies": {
-            "Terminal.Gui": {
-              "target": "Package",
-              "version": "[1.18.1, )"
-            }
-          },
-          "imports": [
-            "net461",
-            "net462",
-            "net47",
-            "net471",
-            "net472",
-            "net48",
-            "net481"
-          ],
-          "assetTargetFallback": true,
-          "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[8.0.15, 8.0.15]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Host.linux-x64",
-              "version": "[8.0.15, 8.0.15]"
-            }
-          ],
-          "frameworkReferences": {
-            "Microsoft.NETCore.App": {
-              "privateAssets": "all"
-            }
-          },
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/9.0.105/PortableRuntimeIdentifierGraph.json"
-        }
-      }
-    },
-    "/home/tails1154/Documents/coding/dotnet/BCSVTool/Hack.io/Hack.io.BCSV/Hack.io.BCSV.csproj": {
+    "/home/tails1154/Cutscene-Maker/Hack.io/Hack.io.BCSV/Hack.io.BCSV.csproj": {
       "version": "2.0.0",
       "restore": {
-        "projectUniqueName": "/home/tails1154/Documents/coding/dotnet/BCSVTool/Hack.io/Hack.io.BCSV/Hack.io.BCSV.csproj",
+        "projectUniqueName": "/home/tails1154/Cutscene-Maker/Hack.io/Hack.io.BCSV/Hack.io.BCSV.csproj",
         "projectName": "Hack.io.BCSV",
-        "projectPath": "/home/tails1154/Documents/coding/dotnet/BCSVTool/Hack.io/Hack.io.BCSV/Hack.io.BCSV.csproj",
+        "projectPath": "/home/tails1154/Cutscene-Maker/Hack.io/Hack.io.BCSV/Hack.io.BCSV.csproj",
         "packagesPath": "/home/tails1154/.nuget/packages/",
-        "outputPath": "/home/tails1154/Documents/coding/dotnet/BCSVTool/Hack.io/Hack.io.BCSV/obj/",
+        "outputPath": "/home/tails1154/Cutscene-Maker/Hack.io/Hack.io.BCSV/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/tails1154/.nuget/NuGet/NuGet.Config"
@@ -108,8 +26,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "/home/tails1154/Documents/coding/dotnet/BCSVTool/Hack.io/Hack.io/Hack.io.csproj": {
-                "projectPath": "/home/tails1154/Documents/coding/dotnet/BCSVTool/Hack.io/Hack.io/Hack.io.csproj"
+              "/home/tails1154/Cutscene-Maker/Hack.io/Hack.io/Hack.io.csproj": {
+                "projectPath": "/home/tails1154/Cutscene-Maker/Hack.io/Hack.io/Hack.io.csproj"
               }
             }
           }
@@ -155,14 +73,14 @@
         }
       }
     },
-    "/home/tails1154/Documents/coding/dotnet/BCSVTool/Hack.io/Hack.io/Hack.io.csproj": {
+    "/home/tails1154/Cutscene-Maker/Hack.io/Hack.io/Hack.io.csproj": {
       "version": "2.0.0",
       "restore": {
-        "projectUniqueName": "/home/tails1154/Documents/coding/dotnet/BCSVTool/Hack.io/Hack.io/Hack.io.csproj",
+        "projectUniqueName": "/home/tails1154/Cutscene-Maker/Hack.io/Hack.io/Hack.io.csproj",
         "projectName": "Hack.io",
-        "projectPath": "/home/tails1154/Documents/coding/dotnet/BCSVTool/Hack.io/Hack.io/Hack.io.csproj",
+        "projectPath": "/home/tails1154/Cutscene-Maker/Hack.io/Hack.io/Hack.io.csproj",
         "packagesPath": "/home/tails1154/.nuget/packages/",
-        "outputPath": "/home/tails1154/Documents/coding/dotnet/BCSVTool/Hack.io/Hack.io/obj/",
+        "outputPath": "/home/tails1154/Cutscene-Maker/Hack.io/Hack.io/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/tails1154/.nuget/NuGet/NuGet.Config"
@@ -215,6 +133,84 @@
             {
               "name": "Microsoft.AspNetCore.App.Ref",
               "version": "[8.0.15, 8.0.15]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/9.0.105/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/tails1154/Documents/coding/dotnet/BCSVTool/BCSVTool.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/tails1154/Documents/coding/dotnet/BCSVTool/BCSVTool.csproj",
+        "projectName": "BCSVTool",
+        "projectPath": "/home/tails1154/Documents/coding/dotnet/BCSVTool/BCSVTool.csproj",
+        "packagesPath": "/home/tails1154/.nuget/packages/",
+        "outputPath": "/home/tails1154/Documents/coding/dotnet/BCSVTool/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/tails1154/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "/home/tails1154/Cutscene-Maker/Hack.io/Hack.io.BCSV/Hack.io.BCSV.csproj": {
+                "projectPath": "/home/tails1154/Cutscene-Maker/Hack.io/Hack.io.BCSV/Hack.io.BCSV.csproj"
+              },
+              "/home/tails1154/Cutscene-Maker/Hack.io/Hack.io/Hack.io.csproj": {
+                "projectPath": "/home/tails1154/Cutscene-Maker/Hack.io/Hack.io/Hack.io.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "dependencies": {
+            "Terminal.Gui": {
+              "target": "Package",
+              "version": "[1.18.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[9.0.4, 9.0.4]"
             }
           ],
           "frameworkReferences": {

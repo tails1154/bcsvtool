@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "rr0if7fz2zw=",
+  "dgSpecHash": "1PpMsQN/piU=",
   "success": true,
   "projectFilePath": "/home/tails1154/Documents/coding/dotnet/BCSVTool/BCSVTool.csproj",
   "expectedPackageFiles": [
@@ -10,8 +10,7 @@
     "/home/tails1154/.nuget/packages/system.text.encoding.codepages/7.0.0/system.text.encoding.codepages.7.0.0.nupkg.sha512",
     "/home/tails1154/.nuget/packages/system.valuetuple/4.5.0/system.valuetuple.4.5.0.nupkg.sha512",
     "/home/tails1154/.nuget/packages/terminal.gui/1.18.1/terminal.gui.1.18.1.nupkg.sha512",
-    "/home/tails1154/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.15/microsoft.aspnetcore.app.ref.8.0.15.nupkg.sha512",
-    "/home/tails1154/.nuget/packages/microsoft.netcore.app.host.linux-x64/8.0.15/microsoft.netcore.app.host.linux-x64.8.0.15.nupkg.sha512"
+    "/home/tails1154/.nuget/packages/microsoft.aspnetcore.app.ref/9.0.4/microsoft.aspnetcore.app.ref.9.0.4.nupkg.sha512"
   ],
   "logs": []
 }

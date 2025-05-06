@@ -1,7 +1,7 @@
 {
   "version": 3,
   "targets": {
-    "net9.0": {
+    "net8.0": {
       "NStack.Core/1.1.1": {
         "type": "package",
         "dependencies": {
@@ -17,12 +17,12 @@
       "System.CodeDom/9.0.4": {
         "type": "package",
         "compile": {
-          "lib/net9.0/System.CodeDom.dll": {
+          "lib/net8.0/System.CodeDom.dll": {
             "related": ".xml"
           }
         },
         "runtime": {
-          "lib/net9.0/System.CodeDom.dll": {
+          "lib/net8.0/System.CodeDom.dll": {
             "related": ".xml"
           }
         },
@@ -36,12 +36,12 @@
           "System.CodeDom": "9.0.4"
         },
         "compile": {
-          "lib/net9.0/System.Management.dll": {
+          "lib/net8.0/System.Management.dll": {
             "related": ".xml"
           }
         },
         "runtime": {
-          "lib/net9.0/System.Management.dll": {
+          "lib/net8.0/System.Management.dll": {
             "related": ".xml"
           }
         },
@@ -49,7 +49,7 @@
           "buildTransitive/net8.0/_._": {}
         },
         "runtimeTargets": {
-          "runtimes/win/lib/net9.0/System.Management.dll": {
+          "runtimes/win/lib/net8.0/System.Management.dll": {
             "assetType": "runtime",
             "rid": "win"
           }
@@ -335,17 +335,17 @@
     },
     "Hack.io/2.0.0": {
       "type": "project",
-      "path": "../../../../Cutscene-Maker/Hack.io/Hack.io/Hack.io.csproj",
-      "msbuildProject": "../../../../Cutscene-Maker/Hack.io/Hack.io/Hack.io.csproj"
+      "path": "Hack.io/Hack.io/Hack.io.csproj",
+      "msbuildProject": "Hack.io/Hack.io/Hack.io.csproj"
     },
     "Hack.io.BCSV/2.0.0": {
       "type": "project",
-      "path": "../../../../Cutscene-Maker/Hack.io/Hack.io.BCSV/Hack.io.BCSV.csproj",
-      "msbuildProject": "../../../../Cutscene-Maker/Hack.io/Hack.io.BCSV/Hack.io.BCSV.csproj"
+      "path": "Hack.io/Hack.io.BCSV/Hack.io.BCSV.csproj",
+      "msbuildProject": "Hack.io/Hack.io.BCSV/Hack.io.BCSV.csproj"
     }
   },
   "projectFileDependencyGroups": {
-    "net9.0": [
+    "net8.0": [
       "Hack.io >= 2.0.0",
       "Hack.io.BCSV >= 2.0.0",
       "Terminal.Gui >= 1.18.1"
@@ -367,20 +367,20 @@
         "/home/tails1154/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
-        "net9.0"
+        "net8.0"
       ],
       "sources": {
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
-        "net9.0": {
-          "targetAlias": "net9.0",
+        "net8.0": {
+          "targetAlias": "net8.0",
           "projectReferences": {
-            "/home/tails1154/Cutscene-Maker/Hack.io/Hack.io.BCSV/Hack.io.BCSV.csproj": {
-              "projectPath": "/home/tails1154/Cutscene-Maker/Hack.io/Hack.io.BCSV/Hack.io.BCSV.csproj"
+            "/home/tails1154/Documents/coding/dotnet/BCSVTool/Hack.io/Hack.io.BCSV/Hack.io.BCSV.csproj": {
+              "projectPath": "/home/tails1154/Documents/coding/dotnet/BCSVTool/Hack.io/Hack.io.BCSV/Hack.io.BCSV.csproj"
             },
-            "/home/tails1154/Cutscene-Maker/Hack.io/Hack.io/Hack.io.csproj": {
-              "projectPath": "/home/tails1154/Cutscene-Maker/Hack.io/Hack.io/Hack.io.csproj"
+            "/home/tails1154/Documents/coding/dotnet/BCSVTool/Hack.io/Hack.io/Hack.io.csproj": {
+              "projectPath": "/home/tails1154/Documents/coding/dotnet/BCSVTool/Hack.io/Hack.io/Hack.io.csproj"
             }
           }
         }
@@ -398,8 +398,8 @@
       "SdkAnalysisLevel": "9.0.100"
     },
     "frameworks": {
-      "net9.0": {
-        "targetAlias": "net9.0",
+      "net8.0": {
+        "targetAlias": "net8.0",
         "dependencies": {
           "Terminal.Gui": {
             "target": "Package",
@@ -420,7 +420,11 @@
         "downloadDependencies": [
           {
             "name": "Microsoft.AspNetCore.App.Ref",
-            "version": "[9.0.4, 9.0.4]"
+            "version": "[8.0.15, 8.0.15]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Host.linux-x64",
+            "version": "[8.0.15, 8.0.15]"
           }
         ],
         "frameworkReferences": {

@@ -28,3 +28,4 @@
 /home/tails1154/Documents/coding/dotnet/BCSVTool/obj/Debug/net9.0/BCSVTool.pdb
 /home/tails1154/Documents/coding/dotnet/BCSVTool/obj/Debug/net9.0/BCSVTool.genruntimeconfig.cache
 /home/tails1154/Documents/coding/dotnet/BCSVTool/obj/Debug/net9.0/ref/BCSVTool.dll
+/home/tails1154/Documents/coding/dotnet/BCSVTool/obj/Debug/net9.0/BCSVTool.sourcelink.json
